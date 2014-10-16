@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cin:home|Door43 (cin)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cin|d43-cin repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cin/archive/master.zip|d43-cin.zip]]
+
+**Recent Changes**
+{{changes>ns = cin}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cin|Ethnologue data]]
+
